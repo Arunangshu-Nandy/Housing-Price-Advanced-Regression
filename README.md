@@ -1,6 +1,3 @@
-Data source-Kaggle dataset (https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data).
-
-Work Submission link in Kaggle-( https://www.kaggle.com/code/arunangshukumarnandy/housing-submissio-rev-0-date-01-12-2022)
 
 In this problem I use various ML model to check for best fitted model. Work is broken down as per below list-
 
@@ -19,4 +16,9 @@ b.	Total SqFT area of N BHK cannot be more than N+1)
 
 6.	Basic Model Building (evaluate results for different models)
 
-7.	Result Submission in Kaggle (link shared at the beginning of the document)
+7.	Result Submission in Kaggle (link shared below)
+
+
+Data source-Kaggle dataset (https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data).
+
+Work Submission link in Kaggle-( https://www.kaggle.com/code/arunangshukumarnandy/housing-submissio-rev-0-date-01-12-2022)
